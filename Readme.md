@@ -1,4 +1,4 @@
-E-COMMERCE 
+#Personalize Todo
 Hi! My name is ajarpriyatam
 
 
@@ -17,11 +17,4 @@ SMPT_MAIL=
 SMPT_PASSWORD= 
 SMPT_HOST= 
 SMPT_PORT= 
-CLOUD_NAME 
-API_KEY 
 API_SECRET 
-
-fill each filed with your info respectively
-
-Author
-Instagram Click Here @meAbhiSingh YouTube Click Here 6 Pack Programmer LinkedIn Click Here @meAbhiSingh Twitter Click Here @meAbhi_Singh
